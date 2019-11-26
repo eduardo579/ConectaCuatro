@@ -1,0 +1,1 @@
+Juego de conectar cuatro fichas del mismo color realizado en Python.
